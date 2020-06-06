@@ -3,6 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace DAL.Repositories.Interfaces {
-	interface IPoliclinicRepository : IRepository<Policlinic> {
+	public interface IPoliclinicRepository : IRepository<Policlinic> {
 	}
 }
