@@ -1,0 +1,11 @@
+D:\pr\tds 9\bin\Debug\netcoreapp3.1\tds 9.exe
+D:\pr\tds 9\bin\Debug\netcoreapp3.1\tds 9.deps.json
+D:\pr\tds 9\bin\Debug\netcoreapp3.1\tds 9.runtimeconfig.json
+D:\pr\tds 9\bin\Debug\netcoreapp3.1\tds 9.runtimeconfig.dev.json
+D:\pr\tds 9\bin\Debug\netcoreapp3.1\tds 9.dll
+D:\pr\tds 9\bin\Debug\netcoreapp3.1\tds 9.pdb
+D:\pr\tds 9\obj\Debug\netcoreapp3.1\tds 9.csprojAssemblyReference.cache
+D:\pr\tds 9\obj\Debug\netcoreapp3.1\tds 9.AssemblyInfoInputs.cache
+D:\pr\tds 9\obj\Debug\netcoreapp3.1\tds 9.AssemblyInfo.cs
+D:\pr\tds 9\obj\Debug\netcoreapp3.1\tds 9.dll
+D:\pr\tds 9\obj\Debug\netcoreapp3.1\tds 9.pdb
