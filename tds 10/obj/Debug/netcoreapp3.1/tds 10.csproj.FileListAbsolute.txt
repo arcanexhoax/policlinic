@@ -1,0 +1,13 @@
+D:\pr\policlinic\policlinic\tds 10\bin\Debug\netcoreapp3.1\tds 10.exe
+D:\pr\policlinic\policlinic\tds 10\bin\Debug\netcoreapp3.1\tds 10.deps.json
+D:\pr\policlinic\policlinic\tds 10\bin\Debug\netcoreapp3.1\tds 10.runtimeconfig.json
+D:\pr\policlinic\policlinic\tds 10\bin\Debug\netcoreapp3.1\tds 10.runtimeconfig.dev.json
+D:\pr\policlinic\policlinic\tds 10\bin\Debug\netcoreapp3.1\tds 10.dll
+D:\pr\policlinic\policlinic\tds 10\bin\Debug\netcoreapp3.1\tds 10.pdb
+D:\pr\policlinic\policlinic\tds 10\obj\Debug\netcoreapp3.1\tds 10.csprojAssemblyReference.cache
+D:\pr\policlinic\policlinic\tds 10\obj\Debug\netcoreapp3.1\tds 10.AssemblyInfoInputs.cache
+D:\pr\policlinic\policlinic\tds 10\obj\Debug\netcoreapp3.1\tds 10.AssemblyInfo.cs
+D:\pr\policlinic\policlinic\tds 10\obj\Debug\netcoreapp3.1\tds 10.csproj.CoreCompileInputs.cache
+D:\pr\policlinic\policlinic\tds 10\obj\Debug\netcoreapp3.1\tds 10.dll
+D:\pr\policlinic\policlinic\tds 10\obj\Debug\netcoreapp3.1\tds 10.pdb
+D:\pr\policlinic\policlinic\tds 10\obj\Debug\netcoreapp3.1\tds 10.genruntimeconfig.cache

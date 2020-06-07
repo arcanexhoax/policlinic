@@ -3,3 +3,7 @@ D:\pr\policlinic\policlinic\DAL\bin\Debug\netcoreapp3.1\DAL.dll
 D:\pr\policlinic\policlinic\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
 D:\pr\policlinic\policlinic\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
 D:\pr\policlinic\policlinic\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\pr\policlinic\policlinic\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\pr\policlinic\policlinic\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\pr\policlinic\policlinic\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\pr\policlinic\policlinic\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
